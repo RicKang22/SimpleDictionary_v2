@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_vocabulary"
+            android:icon="@drawable/ic_menu_vocabulary"
+            android:title="@string/menu_vocabulary" />
+        <item
+            android:id="@+id/nav_dailySent"
+            android:icon="@drawable/ic_menu_dailysent"
+            android:title="@string/menu_dailySent" />
+        <item
+            android:id="@+id/nav_test"
+            android:icon="@drawable/ic_menu_test"
+            android:title="@string/menu_test" />
+        <item
+            android:id="@+id/nav_cleanCache"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/menu_cleanCache" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_aboutMe"
+                android:icon="@drawable/ic_menu_aboutme"
+                android:title="@string/menu_aboutMe" />
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_menu_about"
+                android:title="@string/menu_about" />
+        </menu>
+    </item>
+
+</menu>
