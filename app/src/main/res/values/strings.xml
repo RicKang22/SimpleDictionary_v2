@@ -7,6 +7,22 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
+    <string name="Splash">"SimpleDictionary\n\n""Ver  2.0"</string>
+    <string name="psE">英[%1$s]</string>
+    <string name="psA">美[%1$s]</string>
+    <string name="posAcceptation">基本释义:</string>
+    <string name="sent">例句:</string>
+    <string name="pos">canskjfnsdnksdhviksaml</string>
+    <string name="vocabulary">我的生词本</string>
+    <string name="dailySent">每日一句</string>
+    <string name="about">其他</string>
+    <string name="clear">清除本地缓存</string>
+    <string name="about_us">小组信息</string>
+    <string name="about_dialog_one">"8000116106\n""温康康\n""软工164班\n" </string>
+    <string name="about_dialog_two">"8000116116\n""邓昊成\n""软工164班\n" </string>
+    <string name="about_dialog_three">"8000116117\n""邹伟达\n""软工164班\n" </string>
+
+
     <string name="menu_vocabulary">生词本</string>
     <string name="menu_dailySent">每日一句</string>
     <string name="menu_test">词汇测试</string>
